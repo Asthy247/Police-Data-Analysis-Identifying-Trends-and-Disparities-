@@ -39,6 +39,7 @@ The provided data appears to be a summary of descriptive statistics for differen
 **max:** The maximum driver age for this violation type
 
 
+
 **Interpreting the Data:**
 
 **Equipment Violations:** A relatively large number of stops (6507) were due to equipment violations.
@@ -54,11 +55,13 @@ The average age of drivers involved in these stops is around 31 years old, with 
 **Seat Belt Violations:** A very small number of stops were due to seat belt violations, with an average age of 30.3 years old.
 
 
+
 **1. Gender Disparity in Traffic Stops:**
 
 •	A significant disparity was observed in the number of traffic stops between male and female drivers.
 
 •	Male drivers were significantly more likely to be stopped, suggesting potential biases in policing practices.
+
 
 
 **2. Age Distribution of Drivers:**
@@ -68,11 +71,13 @@ The average age of drivers involved in these stops is around 31 years old, with 
 •	This suggests that younger drivers may be more susceptible to traffic violations.
 
 
+
 **3. Stop Duration by Violation Type:**
 
 •	Different types of violations were found to have varying average stop durations.
 
 •	For instance, equipment/inspection violations typically resulted in shorter stops compared to other violations.
+
 
 
 # Data Visualizations and Insights
